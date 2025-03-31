@@ -95,7 +95,7 @@ form.create-note button {
   align-items: center;
 }
 
-/* ===== INDIVIDUAL NOTE STYLES ===== */
+/* ====== INDIVIDUAL NOTE STYLES ====== */
 .note {
   background: #202124;
   border-radius: 8px;
@@ -111,7 +111,6 @@ form.create-note button {
   font-size: 1rem;
   font-weight: 600;
   padding: 10px;
-  white-space: pre-wrap;
   word-wrap: break-word;
   text-align: justify;
 }
@@ -119,7 +118,6 @@ form.create-note button {
 .note p {
   font-size: 1.1rem;
   padding: 10px;
-  white-space: pre-wrap;
   word-wrap: break-word;
   text-align: justify;
 }
